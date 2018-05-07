@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f181273b-b825-4448-bf20-4a6e367f2383" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chats.html" beforeDir="false" afterPath="$PROJECT_DIR$/chats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/find.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/more.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,20 +52,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="find.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="find.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/find.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="62" selection-end-column="14" />
+            <state relative-caret-position="269">
+              <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="more.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="more.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/more.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="56" column="61" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
+            <state relative-caret-position="-1236">
+              <caret line="58" column="34" lean-forward="true" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+              <folding>
+                <element signature="n#div#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,9 +84,9 @@
         <option value="$PROJECT_DIR$/chat.html" />
         <option value="$PROJECT_DIR$/profile.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/more.html" />
         <option value="$PROJECT_DIR$/chats.html" />
         <option value="$PROJECT_DIR$/find.html" />
+        <option value="$PROJECT_DIR$/more.html" />
       </list>
     </option>
   </component>
@@ -159,12 +160,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525669559158</updated>
-      <workItem from="1525669560633" duration="12844000" />
+      <workItem from="1525669560633" duration="17253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12844000" />
+    <option name="totallyTimeSpent" value="17253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -224,17 +225,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/more.html">
+    <entry file="file://$PROJECT_DIR$/find.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="56" column="61" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
+        <state relative-caret-position="269">
+          <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/find.html">
+    <entry file="file://$PROJECT_DIR$/more.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="62" selection-end-column="14" />
+        <state relative-caret-position="-1236">
+          <caret line="58" column="34" lean-forward="true" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+          <folding>
+            <element signature="n#div#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
