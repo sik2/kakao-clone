@@ -1,0 +1,31 @@
+.friend_section .friends_section_title {
+    border-top:1px solid #ebebeb;
+    border-bottom:1px solid #ebebeb ;
+    padding: 10px 15px;
+    font-size: 14px;
+    color: #b4b4b4;
+}
+
+.friends_section_rows .friends_section_row{
+    padding: 10px 15px;
+    display: flex;
+    align-items:center;
+}
+.friends_section_rows a {
+    text-decoration: none;
+    color:inherit;
+
+}
+
+.friends_section_rows img {
+    margin-right:15px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.friends_section_column {
+    display: flex;
+    align-items: center;
+
+}
