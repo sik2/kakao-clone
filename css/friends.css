@@ -29,3 +29,13 @@
     align-items: center;
 
 }
+.friends_section_row.with-tagline{
+    justify-content: space-between;
+}
+.friend_section_tagline{
+    font-size: 10px;
+    background-color: #f0f0f0;
+    padding: 10px 5px;
+    border-radius: 5px;
+    color:#939393;
+}
