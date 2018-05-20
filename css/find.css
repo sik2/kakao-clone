@@ -8,7 +8,7 @@
 .find_options .find_option {
     display:flex;
     flex-direction: column;
-    align-items:center;
+    align-items: center;
     justify-content:  space-between;
     padding-left: 30px;
     padding-right: 5px;

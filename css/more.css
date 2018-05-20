@@ -60,13 +60,13 @@
 .more .more_plus-friends {
      padding: 20px ;
 }
-.more_plus-friends .plus-friends_header {
+.more_plus-friends .plus-friends_headers {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 30px;
 }
-.plus-friends_header .plus-friends_learn-more{
+.plus-friends_headers .plus-friends_learn-more{
     color:#b4b4b4;
 }
 .plus-friends_items {
