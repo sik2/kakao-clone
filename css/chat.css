@@ -1,3 +1,6 @@
+.body-chat {
+    padding-bottom:0;
+}
 .chat-header,
 .chat-header a {
     background-color: #a1c0d6;
@@ -9,7 +12,10 @@
 .chat {
     background-color: #a1c0d6;
     height:100vh;
-    margin-top: 15px;
+    padding-top: 15px;
+    padding-right: 5px;
+    padding-left: 5px;
+
 }
 .chat .date-divider{
     text-align: center;
@@ -28,6 +34,9 @@
 .chat_message-from-me {
     justify-content: flex-end;
 
+}
+.chat_message-to-me img {
+    align-self: flex-start;
 }
 .chat_message-time{
     font-size: 10px;
@@ -65,6 +74,34 @@
     bottom:0;
     position:fixed;
     height:45px;
-    background: #eeeeee;    
-    
+    background: #eeeeee;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+.type-message .fa-plus {
+    color:#b4b4b4;
+}
+.type-message_input {
+    width:90%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.type-message_input input {
+    width:100%;
+    padding: 10px;
+}
+.type-message_input .fa-smile-o{
+    position: absolute;
+    right: 40px;
+    color: #b4b4b4;
+}
+.type-message_input .record-message{
+    color:#523737;
+    background-color: #FFDC00;
+    padding:10px;
+    cursor:pointer;
 }
