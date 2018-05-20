@@ -5,9 +5,11 @@
     position: fixed;
     width:100%;
     top:0;
-
+    z-index: 2;
 }
-
+.top-header a {
+    color:white;
+}
 .top-header .header_top,
 .top-header .header_bottom {
 
@@ -31,7 +33,9 @@
 .top-header .header_bottom .header_column:first-child {
     color: rgba(255, 255, 255, 0.5);
 }
-
+.top-header .header_bottom .header_column:first-child{
+    rgba(255, 255, 255, 0.5);
+}
 .top-header .header_column:last-child {
     text-align: right;
 }
